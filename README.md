@@ -12,8 +12,10 @@
 - 📫 How to reach me **tanmaydhk@gmail.com**
 
 - 📄 Know about my experiences [System administration](System administration)
-
+[[MasterHead](https://1.bp.blogspot.com/-7A4WynwLs/XbBpCXG8FHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu25Dj_Mig8SXJQCLcBGAs YHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left">
 <a href="https://twitter.com/tanmaydhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmaydhk" height="30" width="40" /></a>
 </p>
